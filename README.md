@@ -1,4 +1,3 @@
-![Image](https://github.com/user-attachments/assets/d61dc993-11c2-44e6-9333-1eb05af67ffc)
 
 <h1 align="center">Leonardo Cortelim</h1>
 
@@ -29,6 +28,10 @@ Me interesso por jogos e estou sempre buscando aprender coisas novas.
 </p>
 
 ---
+
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/d61dc993-11c2-44e6-9333-1eb05af67ffc" width="200" height="200" />
+</p>
 
 
 ## 📈 GitHub Stats
