@@ -1,6 +1,6 @@
 # Leonardo Cortelim
 
-Estudante de Informática • IFSC - Campus Gaspar • 17 anos
+Estudante de Informática • IFSC - Campus Gaspar
 
 ---
 
