@@ -1,9 +1,6 @@
+# Leonardo Cortelim
 
-<h1 align="center">Leonardo Cortelim</h1>
-
-<p align="center">
-  Estudante de Informática • IFSC - Campus Gaspar • 17 anos
-</p>
+Estudante de Informática • IFSC - Campus Gaspar • 17 anos
 
 ---
 
@@ -15,36 +12,35 @@ Me interesso por jogos e estou sempre buscando aprender coisas novas.
 
 ---
 
-## Tecnologias que utilizo
+### Tecnologias que utilizo
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" alt="Eclipse"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
-</p>
+<img align="left" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
+<img align="left" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
----
-
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/d61dc993-11c2-44e6-9333-1eb05af67ffc" width="200" height="200" />
-</p>
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardocortelim&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocortelim&layout=compact&theme=radical" width="48%" />
-</p>
+<br><br><br>
 
 ---
 
-## 📫 Contato
+## Gráficos GitHub 
+
+<table>
+  <tr>
+    <td style="width: 600px;">
+      <img height="160px" src="https://github-readme-stats.vercel.app/api?username=leonardocortelim&show_icons=true&theme=radical" />
+      <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocortelim&layout=compact&theme=radical" />
+    </td>
+    <td align="right" style="width: 300px;">
+      <img src="https://github.com/user-attachments/assets/d61dc993-11c2-44e6-9333-1eb05af67ffc" width="180" height="180" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Contato
 
 - Email: **leonardo@email.com**
-
-
-
