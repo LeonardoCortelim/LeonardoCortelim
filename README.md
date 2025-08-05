@@ -7,7 +7,7 @@ Estudante de Informática • IFSC - Campus Gaspar
 ## Sobre mim
 
 Tenho 17 anos e estudo no IFSC - Campus Gaspar.  
-Gosto de programar e explorar o mundo da tecnologia.  
+Gosto de explorar o mundo da tecnologia.  
 Me interesso por jogos e estou sempre buscando aprender coisas novas.
 
 ---
