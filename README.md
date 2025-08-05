@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/v5yNtxU.gif"/>
-</p>
-
+![Image](https://github.com/user-attachments/assets/d61dc993-11c2-44e6-9333-1eb05af67ffc)
 
 <h1 align="center">Leonardo Cortelim</h1>
 
