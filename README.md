@@ -43,4 +43,4 @@ Me interesso por jogos e estou sempre buscando aprender coisas novas.
 
 ## Contato
 
-- Email: **leonardo@email.com**
+- Email: **leo.cortelim@gmail.com**
