@@ -32,6 +32,7 @@ Me interesso por jogos e estou sempre buscando aprender coisas novas.
   <tr>
     <td style="width: 600px;">
       <img height="160px" src="https://github-readme-stats.vercel.app/api?username=leonardocortelim&show_icons=true&theme=radical" />
+      <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardocortelim&theme=radical" />
       <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocortelim&layout=compact&theme=radical" />
     </td>
     <td align="right" style="width: 300px;">
@@ -39,7 +40,6 @@ Me interesso por jogos e estou sempre buscando aprender coisas novas.
     </td>
   </tr>
 </table>
-
 ---
 
 ## Contato
