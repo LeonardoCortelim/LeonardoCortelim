@@ -1,7 +1,7 @@
-# Leonardo Cortelim
+ Leonardo Cortelim
 Estudante de Informática • IFSC - Campus Gaspar
 ---
-## Sobre mim
+ Sobre mim
 Tenho 17 anos e estudo no IFSC - Campus Gaspar.  
 Gosto de explorar o mundo da tecnologia.  
 Me interesso por jogos e estou sempre buscando aprender coisas novas.
@@ -16,7 +16,7 @@ Me interesso por jogos e estou sempre buscando aprender coisas novas.
 <img align="left" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br><br><br>
 ---
-## Gráficos GitHub 
+ Gráficos GitHub 
 <table>
   <tr>
     <td style="width: 600px;">
@@ -28,7 +28,6 @@ Me interesso por jogos e estou sempre buscando aprender coisas novas.
     </td>
   </tr>
 </table>
----
-## Contato
+
+ Contato
 - Email: **leo.cortelim@gmail.com**
-Pq sumiu 1 dos meus graficos
