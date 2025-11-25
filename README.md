@@ -1,6 +1,6 @@
 # Leonardo Cortelim
 
-Estudante de Informática • IFSC - Campus Gaspar
+Estudante de Informática • FSC - Campus Gaspar
 
 ---
 
