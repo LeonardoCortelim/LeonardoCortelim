@@ -2,9 +2,9 @@
 Estudante de Informática • IFSC - Campus Gaspar
 ---
  Sobre mim
-Tenho 17 anos e estudo no IFSC - Campus Gaspar.  
+<sub>Tenho 17 anos e estudo no IFSC - Campus Gaspar.  
 Gosto de explorar o mundo da tecnologia.  
-Me interesso por jogos e estou sempre buscando aprender coisas novas.
+Me interesso por jogos e estou sempre buscando aprender coisas novas.</sub>
 ---
 ### Tecnologias que utilizo
 <img align="left" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -15,8 +15,9 @@ Me interesso por jogos e estou sempre buscando aprender coisas novas.
 <img align="left" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
 <img align="left" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br><br><br>
----
- Gráficos GitHub 
+
+ Gráficos GitHub
+ 
 <table>
   <tr>
     <td style="width: 600px;">
