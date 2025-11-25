@@ -28,18 +28,17 @@ Me interesso por jogos e estou sempre buscando aprender coisas novas.
 
 ## Gráficos GitHub 
 
-<table>
-  <tr>
-    <td style="width: 600px;">
-      <img height="160px" src="https://github-readme-stats.vercel.app/api?username=leonardocortelim&show_icons=true&theme=radical&hide_border=true" />
-      <img height="160px" src="https://streak-stats.demolab.com/?user=leonardocortelim&theme=radical&hide_border=true" />
-      <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocortelim&layout=compact&theme=radical&hide_border=true" />
-    </td>
-    <td align="right" style="width: 300px;">
-      <img src="https://github.com/user-attachments/assets/d61dc993-11c2-44e6-9333-1eb05af67ffc" width="180" height="180" />
-    </td>
-  </tr>
-</table>
+
+## Gráficos GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardocortelim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocortelim&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=leonardocortelim&theme=radical" alt="leonardocortelim" />
+</div>
 ---
 
 ## Contato
